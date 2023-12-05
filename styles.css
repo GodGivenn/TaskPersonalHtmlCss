@@ -338,6 +338,30 @@ footer>a img,
 
 /* Footer - sfarsit */
 
+
+/* Album foto - inceput */
+.album-intro h2{
+  margin: 3rem 0;
+  color: var(--culoare-secundara);
+  font-family: var(--font-2);
+  font-weight:bold;
+}
+
+.album-intro h3 {
+  text-align: center;
+  color: var(--culoare-secundara);
+  font-family: var(--font-1);
+  font-size: 2rem;
+  font-weight: 10;
+  margin: 4rem 0;
+}
+
+.album-colaj{
+  
+}
+/* Album foto - sfarsit */
+
+
 /* Responsivness */
 @media only screen and (max-width: 60rem) {
 
@@ -384,6 +408,5 @@ footer>a img,
   .testimoniale-pagina h4 {
     text-align: center;
   }
-
 
 }
